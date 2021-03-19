@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip
+  ROM_URL: https://bigota.d.miui.com/V12.0.3.0.QFGCNXM/miui_LAVENDER_V12.0.3.0.QFGCNXM_fe51c5198b_10.0.zip
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
