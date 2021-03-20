@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud189-xizang-person.oos-xzls.ctyunapi.cn/PERSONCLOUD/f738ec5b-abbd-4c67-b4e2-6fab24214301.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-limitrate=10240&x-amz-UID=783827947&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Sky_N7P_21.1.6Dev_10%28B88FDDA4B7%29.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=Y6JiVYsxgTtxUr5Bwow3xL20wEY%3D&x-amz-SHID=170971753&Expires=1616167769&x-amz-FSIZE=2215045387&x-amz-UFID=31514112362089123
+  ROM_URL: https://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.31_OTA_031_all_2011091838_d218c01f9eb94c56.zip
   ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_AONLY: false
