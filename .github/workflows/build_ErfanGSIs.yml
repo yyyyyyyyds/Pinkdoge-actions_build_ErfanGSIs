@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip
-  ROM_NAME: MIUI
+  ROM_URL: http://download.h2os.com/OnePlus5/MP/OnePlus5Hydrogen_23_OTA_065_all_2012030353_e8c692aa5e0c45ca.zip
+  ROM_NAME: oxygen
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AB: MIUI_AB.7z
+  ROM_AB: oxygen_AB.7z
 
 jobs:
   build:
