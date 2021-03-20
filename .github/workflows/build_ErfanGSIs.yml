@@ -6,10 +6,10 @@ on:
     
 env:
   ROM_URL: https://download.h2os.com/OnePlus7/MP/OnePlus7Hydrogen_14.H.31_OTA_031_all_2011091838_d218c01f9eb94c56.zip
-  ROM_NAME: MIUI
+  ROM_NAME: OxygenOS
   BUILD_AB: true
   BUILD_AONLY: false
-  ROM_AB: MIUI_AB.7z
+  ROM_AB: OxygenOS_AB.7z
 
 jobs:
   build:
